@@ -1,0 +1,32 @@
+.cover-Container{
+    width: 100%;
+    height: 100vh;
+    object-fit: contain;
+    box-shadow: inset 0 0 0 1000px rgba(0 , 0, 0, 0.6);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.video{
+    width: 100%;
+    object-fit: fill;
+    height: 100vh;
+    position: absolute;
+    z-index: -1;
+}
+
+.cover-Container > h1{
+    color: white;
+    font-size:50px;
+    display: block;
+}
+
+
+.cover-Container > p{
+    color: white;
+    font-size:50px;
+}
+
+

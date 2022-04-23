@@ -1,0 +1,24 @@
+.slider-title{
+    margin-top: -50px;
+}
+
+.slider{
+    width: 100%;
+    align-items: center;
+    background-color: white;
+}
+
+.slider > Carousel{
+    align-items: center;
+    margin-top: 40px;
+}
+
+.title{
+    color: black;
+    margin-top: 30px;
+}
+
+.title1{
+    color: #fff;
+}
+
